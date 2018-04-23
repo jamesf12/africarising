@@ -12,7 +12,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # What is #Africarising
+![Image](https://www.economist.com/sites/default/files/20111203_LDP002.jpg)
+- Bulleted
+- List
 ## Why newspapers?
+_What newspapers?_
+- America
+- Europe
+- Africa
+- Latin America
+- Asia
+- Oceania 
+
+
 ### Tweets analyisi
 
 - Bulleted
