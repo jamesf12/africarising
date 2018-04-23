@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # What is #Africarising
-![Image](https://www.economist.com/sites/default/files/20111203_LDP002.jpg)
+![https://www.economist.com/sites/default/files/20111203_LDP002.jpg](africarising)
 - Bulleted
 - List
 ## Why newspapers?
